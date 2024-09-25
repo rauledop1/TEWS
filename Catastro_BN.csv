@@ -1,4 +1,4 @@
-Categoría de la subdivisión,Código 3166-2,Nombre de la subdivisión,Variante locale,Código del idioma,Año,sistema de coordenadas,nombre_file,url
+Category,cod_region,name_region,desc_region,lenaguage,year_update,crs,file_name,file_url
 region,CL-AI,Aisén del General Carlos Ibañez del Campo,"Aysén, Aisén",es,2011,EPSG:32718,Catastro_RV_R11_2011,https://ide.minagri.gob.cl/geoweb/storage/DESCARGAS/CAPAS/PLANIFICACION_CATASTRAL/CATASTRO_CONAF/11.%20Regin%20de%20Aysn.rar
 region,CL-AN,Antofagasta,,es,2019,EPSG:32719,cbn_reg02_2019,https://ide.minagri.gob.cl/geoweb/storage/DESCARGAS/CAPAS/PLANIFICACION_CATASTRAL/CATASTRO_CONAF/CBN_REG02_2019.rar
 region,CL-AP,Arica y Parinacota,,es,2015,EPSG:32719,catastro_RV_R15_2015,https://ide.minagri.gob.cl/geoweb/storage/DESCARGAS/CAPAS/PLANIFICACION_CATASTRAL/CATASTRO_CONAF/15.Regin%20de%20Arica%20y%20Parinacota.rar
