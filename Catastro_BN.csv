@@ -9,7 +9,7 @@ region,CL-AR,La Araucanía,,es,2017,EPSG:32718,cbn_09reg_2017,https://ide.minagr
 region,CL-LI,Libertador General Bernardo O'Higgins,O'Higgins,es,2013,EPSG:32719,Catastro_RV_R06_2013,https://ide.minagri.gob.cl/geoweb/storage/DESCARGAS/CAPAS/PLANIFICACION_CATASTRAL/CATASTRO_CONAF/06.%20Regin%20de%20OHiggins.rar
 region,CL-LL,Los Lagos,,es,2018,EPSG:32718,cbn_10reg_2018,https://ide.minagri.gob.cl/geoweb/storage/DESCARGAS/CAPAS/PLANIFICACION_CATASTRAL/CATASTRO_CONAF/cbn_10reg_2018.rar
 region,CL-LR,Los Ríos,,es,2017,EPSG:32718,cbn_14reg_2017,https://ide.minagri.gob.cl/geoweb/storage/DESCARGAS/CAPAS/PLANIFICACION_CATASTRAL/CATASTRO_CONAF/cbn_14reg_2017.rar
-region,CL-MA,Magallanes,,es,2017,EPSG:32718,cbn_2017_2019_r12,https://ide.minagri.gob.cl/geonetwork/srv/spa/catalog.search#/metadata/%7B8292CD2C-3C4B-42B1-BE25-32E100BD5F9A%7D_100048_es
+region,CL-MA,Magallanes,,es,2017,EPSG:32718,cbn_2017_2019_r12,https://ide.minagri.gob.cl/geoweb/storage/DESCARGAS/CAPAS/PLANIFICACION_CATASTRAL/CATASTRO_CONAF/cbn_2017_2019_r12.rar
 region,CL-ML,Maule,,es,2016,EPSG:32718,Catastro_RV_R07_2016,https://ide.minagri.gob.cl/geoweb/storage/DESCARGAS/CAPAS/PLANIFICACION_CATASTRAL/CATASTRO_CONAF/07.Regin%20del%20Maule.rar
 region,CL-RM,Región Metropolitana de Santiago,,es,2019,EPSG:32719,cbn_rm_2019_21feb24,https://ide.minagri.gob.cl/geoweb/storage/DESCARGAS/CAPAS/PLANIFICACION_CATASTRAL/CATASTRO_CONAF/cbn_rm_2019_21feb24.rar
 region,CL-TA,Tarapacá,,es,2016,EPSG:32719,Catastro_RV_R01_2016,https://ide.minagri.gob.cl/geoweb/storage/DESCARGAS/CAPAS/PLANIFICACION_CATASTRAL/CATASTRO_CONAF/01.Regin%20de%20Tarapaca%20Ao%202016.rar
